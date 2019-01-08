@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpFFAP_quicksort", "FSharpFFAP_quicksort\FSharpFFAP_quicksort.fsproj", "{35713C26-169D-45F8-9D30-B7D47418C0C3}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpFFaP.Quicksort", "FSharpFFAP.Quicksort\FSharpFFaP.Quicksort.fsproj", "{35713C26-169D-45F8-9D30-B7D47418C0C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
