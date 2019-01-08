@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="GeneralFunctions.fs" />
     <Compile Include="Quicksort.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
